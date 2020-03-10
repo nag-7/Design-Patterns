@@ -1,0 +1,2 @@
+module creational.java {
+}
